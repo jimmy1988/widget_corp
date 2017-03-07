@@ -1,0 +1,7 @@
+The purpose of this application is mainly to provide a simple inteface for a user to login, make modificataions on a website
+and save them to the database.
+
+I have kept every element of this simple for development purposes and to allow this application to grow with more design
+and coding ideas.
+
+The code demonstrates how I organise my code, comments and all the files within an application
